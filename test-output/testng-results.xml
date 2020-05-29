@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="59682" started-at="2020-05-29T11:26:35Z" finished-at="2020-05-29T11:27:34Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="59682" started-at="2020-05-29T11:26:35Z" finished-at="2020-05-29T11:27:34Z">
+      <class name="com.script.MavenIRCTC.TestFramework">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.script.MavenIRCTC.TestFramework@51c8530f]" name="openBrowser" is-config="true" duration-ms="21291" started-at="2020-05-29T11:26:35Z" finished-at="2020-05-29T11:26:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="irctcreg()[pri:0, instance:com.script.MavenIRCTC.TestFramework@51c8530f]" name="irctcreg" duration-ms="38336" started-at="2020-05-29T11:26:56Z" finished-at="2020-05-29T11:27:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- irctcreg -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.script.MavenIRCTC.TestFramework@51c8530f]" name="closeBrowser" is-config="true" duration-ms="1" started-at="2020-05-29T11:27:34Z" finished-at="2020-05-29T11:27:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.script.MavenIRCTC.TestFramework -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
